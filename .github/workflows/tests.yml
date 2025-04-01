@@ -2,9 +2,6 @@ name: Run tests
 
 on:
   push:
-    branches:
-      - "main"
-      - "main-temp"
   pull_request:
     branches:
       - "main"
